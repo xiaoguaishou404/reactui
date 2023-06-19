@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sls",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
 }
