@@ -1,2 +1,7 @@
-console.log("991111");
+import React from 'react';
+import ReactDom from 'react-dom';
+import Button from './button';
+ReactDom.render(<Button />, document.body);
+export { Button }
+
 
